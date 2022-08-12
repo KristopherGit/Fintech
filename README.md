@@ -1,14 +1,11 @@
-# Fintech
+# Fintech 
 
-- Who are you? What is your background?
+## Bitcoin Price Update
 
-Chris
-​ \* What are your career goals?
+### Thursday, August 11, 2022
 
-Become Fintech dev
-​ \* Why did you choose FinTech as a career path?
+**Price as of 8:36pm :** 
+---
+*$23,886.83*
 
-Become professional coderTesting change
 
-Test edit
-7:57 pm
